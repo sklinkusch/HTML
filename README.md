@@ -10,7 +10,35 @@
   - description: Assignment to test knowledge of web page structures and how to represent a prospective layout design in markup.
   - [link to repository](https://github.com/sklinkusch/01-Structuring-the-Web)
   - [link to Github pages](https://sklinkusch.github.io/01-Structuring-the-Web/)
+- 02-css-basics
+  - description: An exercise to repeat the basics of HTML and combine them with the basics of CSS
+  - [link to repository](https://github.com/sklinkusch/02-css-basics)
+  - [link to Github pages](https://sklinkusch.github.io/02-css-basics/)
+- 03-letter-layout
+  - description: 03-letter-layout-sklinkusch created by GitHub Classroom
+  - [link to repository](https://github.com/sklinkusch/03-letter-layout)
+  - [link to Github pages](https://sklinkusch.github.io/03-letter-layout/)
+- 04-page-layout
+  - description: copy of the assignment 04-page-layout-sklinkusch @ FbW12
+  - [link to repository](https://github.com/sklinkusch/04-page-layout)
+  - [link to Github pages](https://sklinkusch.github.io/04-page-layout/)
 - 05-css-positioning
   - description: copy of the classroom assignment 05-css-positioning-sklinkusch @ FbW12
   - [link to repository](https://github.com/sklinkusch/05-css-positioning)
   - [link to Github pages](https://sklinkusch.github.io/05-css-positioning/)
+- 06-blog-headlines
+  - description: copy of the classroom assignment 06-blog-headlines-sklinkusch @ FbW12
+  - [link to repository](https://github.com/sklinkusch/06-blog-headlines)
+  - [link to Github pages](https://sklinkusch.github.io/06-blog-headlines/blog.html)
+- 07-instagram-flexbox
+  - description: copy of the classroom assignment 07-instagram-flexbox-sklinkusch @ FbW12
+  - [link to repository](https://github.com/sklinkusch/07-instagram-flexbox)
+  - [link to Github pages](https://sklinkusch.github.io/07-instagram-flexbox/)
+- 08-mega-menu
+  - description: copy of the classroom assignment 08-mega-menu-sklinkusch @ FbW12
+  - [link to repository](https://github.com/sklinkusch/08-mega-menu)
+  - [link to Github pages](https://sklinkusch.github.io/08-mega-menu/)
+- tvtestcard
+  - description: TV testcard done with HTML and CSS (grid and absolute positioning)
+  - [link to repository](https://github.com/sklinkusch/tvtestcard)
+  - [link to Github pages](https://sklinkusch.github.io/tvtestcard/)
