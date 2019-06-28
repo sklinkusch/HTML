@@ -38,6 +38,10 @@
   - description: copy of the classroom assignment 08-mega-menu-sklinkusch @ FbW12
   - [link to repository](https://github.com/sklinkusch/08-mega-menu)
   - [link to Github pages](https://sklinkusch.github.io/08-mega-menu/)
+- 09-responsive-design
+  - description: responsive layout using HTML and CSS
+  - [link to repository](https://github.com/sklinkusch/09-responsive-design)
+  - [link to Github pages](https://sklinkusch.github.io/09-responsive-design)
 - tvtestcard
   - description: TV testcard done with HTML and CSS (grid and absolute positioning)
   - [link to repository](https://github.com/sklinkusch/tvtestcard)
